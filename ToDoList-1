@@ -1,0 +1,151 @@
+package ds;
+
+public class ToDO {
+    // Multithreading,conucrrency intenal working of collectionas in java
+
+    // diamond problem in c++
+
+    // Threading questions Linked HashMap Concurrent Collections
+
+    // Mutable class, Grabage Collections
+
+    // how cashback is implemented using paytm api
+
+    //architecture of o2r
+
+    // conflicts in projects
+
+    //offering discounts in swigy food swiggy system design
+
+    // payment gatway web sockets and rate limiter
+
+    // Linked Hash Map and Threding and other concurrent collectios
+
+    // red black tree
+
+    // max  cost path in undirected graph such that no edge is visited twice
+
+    // Java oops revise
+
+    // do java soldi course on udemy
+
+    //read spring and collectin coding with Durgesh
+
+    // Print even odd numbers using 2 threds in java in increasing order
+    // median of 2 sorted arrays , implement getrandom functionaly, implement get min in stacks
+    // singleton class real life example
+
+
+    //2
+
+    //Design  a custom UICollection View Cell? ios
+
+    //Thread basics, ways of creating thread, which way is best dif between multithrrading and multiprogramming
+    //txn in DBMS,, what is ACID
+
+    //Hash MAP internal working
+
+    //detect and rrwmove loop in linked list
+    // reverse a linked list
+    //sort an array of 0 1 and 2
+    //singleton class and make it thread safe
+    //Function overlading and overriding
+    // static functions in java
+    //inheritance
+    //hashmap and hashset internal working
+    //How to call Garbage collector explicityly
+    //Explain Observer Pattern ,scenario where sinleton pattern is used
+    //max size rectagle binary submatrix
+    //abstract class and interface
+    //make variable mutable in java, is it possible to modiy the final variable value
+    //HashMap put and get complexity
+    //pubic key private key encryption
+    //how to create indexex in tbles
+    //isolation levels in sql
+    //maxmise sum of k elements in arrya by taking corner elements ->gt
+    //spiring vs sprin boot
+    //Reddis complete
+    //HTTP vs HTTPS
+    //final class and scenarios
+    //find element in rotated sorted array
+    //all life cyces in thread
+    //working of DNS
+    // find an element in row wise only sorted matrix
+    //equals and hascode()
+    //print a word in reverse order word by word
+    //given a file read it line by line and print occurences of each word in file
+    //StringBuilder vs StringBuffer
+    //ipmroved the performance of sinleton class by making thrwad safe and improve performance by double chcked locking
+    //volatile
+    //segregate it by odd and even placed numbers
+    //bst insertion and then write a code to balance it
+    // how to make list unmodifiable
+    //Write code for an enum. How will you get ordinality for an enum?
+    // How can your enum A extends some class B?
+
+
+    //Difference between List<?> and List<Object>
+    //
+    //List<?> list1 = new ArrayList<?>();
+    //
+    //List<Object> list2 = new ArrayList<Object>();
+    //
+    //List<String> list3 = new ArrayList<String>();
+
+    //print all paths from root to leaf nodes in binary
+
+    //Left view
+    // n arrytree write a function to print its left order traversal
+    //Split wise app db design
+    //program to convert decimal to hexdecimal
+    //API related questions
+    //Implement function which add n days to given date without
+    // using inbuilt library. (Production level code was required.)
+    //There are n Thread , n/2 thread are producer and n/2 are consumer, number produced by producer-1 thread must be consumed by consumer-1 thread. Thread must also run in order, producer 1,
+    // then consumer 1, again producer 2 and then consumer 2…so on…..
+    // sipral traversal matrix
+    // LIS
+    //practice DP _HashMAP+two pointers arounf total 50 questions
+    //Longest Line of 1s in an array
+    //find number of islands
+    //check if string is palindrome
+    // boolean paranthesisztion mcm scrambled strings
+    //Paytm Architecture system desgin
+    //array question find the missing numbers
+    //Singeton pattern
+    //design own arrayLISt
+    //sort  a linked list program to rotate an array  LRU cache
+    //Services, Fragment, app optimization, retainInstance() in fragment, Asynctaskrotation problem etc
+    // graph traversal detect cycle
+    //find max in stack optimise it
+    //All solid priciples with examples
+    //jpql querries
+    //Different between Wait(), notify() and notifyAll() in java. Give real world examples.
+    //immutable in java and how to create immutable class
+    // Generics brief working and heap memory vs stack memeory
+    // advanced problems on inheritance
+    // design priciples in java examples
+    //Depth of JSON object
+    // max weight of stones can be collection bound knapsack
+    //iterate over DAG, ignore the node that you have already visited
+    //sub array sum problem in matrix 2d
+    //
+    //Design Whatsapp
+    //algorithm for load balancer
+    //handle rate limiting in persistenet connection
+    //2 elemet missing rane is n find the miss
+    //process vs hread  and what is page fault
+    //scheduling algorithms & drawbacks
+    //collison in hash map and collison resolution techniques
+    //data structure for FM radio
+    //. A paragraph which contained some dates in format DD-MM-YYYY,
+    // find number of distinct years in the paragraph.
+
+
+    //clone a linked list with random pointers
+    // clone a graph
+    //seesions vs cookies how are session mainted and passed from client to server
+    //how to handle high request per seocnd distriutes systems
+    //find min window substring all words present
+    //
+}
