@@ -45,6 +45,8 @@ public class ToDO {
 
     //Hash MAP internal working
 
+
+    //synchronised threads
     //detect and rrwmove loop in linked list
     // reverse a linked list
     //sort an array of 0 1 and 2
