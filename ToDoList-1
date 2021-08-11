@@ -1,6 +1,13 @@
 package ds;
 
 public class ToDO {
+
+
+
+//https://www.codewars.com/kata/51b62bf6a9c58071c600001b/train/java
+
+//https://aaronice.gitbook.io/lintcode/graph_search/the-maze-ii
+
     // Multithreading,conucrrency intenal working of collectionas in java
 
     // diamond problem in c++
