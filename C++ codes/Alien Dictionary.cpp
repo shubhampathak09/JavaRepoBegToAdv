@@ -82,3 +82,6 @@ cout<<x<<" ";
 // need to check if main or master
 
 //.. changed to master
+
+
+// test changing the email to see if it works
