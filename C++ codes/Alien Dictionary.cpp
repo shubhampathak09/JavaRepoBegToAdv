@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+#itinclude<bits/stdc++.h>
 using namespace std;
  
  
@@ -79,4 +79,4 @@ cout<<x<<" ";
 }
 }
 
-
+// need to check if main or master
